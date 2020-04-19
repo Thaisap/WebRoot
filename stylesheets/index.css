@@ -38,6 +38,7 @@ h1 {
     color: blanchedalmond;
 }
 .col-sm-8 {
+
     background-color: gray;
 }
 
@@ -71,4 +72,9 @@ p .foo {
 
 #welcome{
     font-size:20px;
+}
+
+.container-fluid{
+    margin: auto;
+
 }
